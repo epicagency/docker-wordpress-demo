@@ -2,3 +2,6 @@
 - sudo chmod 777 root/wp-content
 - chmod 777 themes plugins
 - install some plugins and a theme
+- write a Dockerfile
+- build image (docker build -t rg.fr-par.scw.cloud/epicagency/wordpress-demo:latest .)
+- push image (docker push rg.fr-par.scw.cloud/epicagency/wordpress-demo:latest)

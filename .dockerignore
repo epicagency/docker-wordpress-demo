@@ -1,0 +1,5 @@
+root
+plugins/akismet
+themes/twenty*
+plugins/*.php
+themes/*.php
