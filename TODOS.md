@@ -1,0 +1,4 @@
+- docker-compose up -d
+- sudo chmod 777 root/wp-content
+- chmod 777 themes plugins
+- install some plugins and a theme
